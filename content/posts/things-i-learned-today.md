@@ -1,7 +1,7 @@
 ---
-title: "Things I Learned Today - Chaining in Lodash"
+title: "Things I Learned Today - Method Chaining"
 date: 2018-10-24T23:12:58+05:30
-draft: true
+draft: false
 ---
 #Things I learned today:
 
